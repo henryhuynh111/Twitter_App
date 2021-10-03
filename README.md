@@ -22,7 +22,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/0cS2X0K.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/0cS2X0K.mp4
+![](https://github.com/henryhuynh111/Twitter_App/blob/main/ezgif-6-6cd23d26733c.gif)
 
 # Twitter - Part I
 
